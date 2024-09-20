@@ -3,9 +3,9 @@
 ### Propasal (Level 3 Heading)
 ***
 I am planning to make a computer vision software that detects objects in images.<br>
-In order to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://github.com/tensorflow/tensorflow) or [PyTorch]( https://github.com/pytorch/pytorch), and other open source softwares.<br>
+In order to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://github.com/tensorflow/tensorflow) or [PyTorch]( https://github.com/pytorch/pytorch), and other open source softwares.<br><br>
 For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection) :
-![](https://mblogthumb-phinf.pstatic.net/MjAxODA2MjBfMTU1/MDAxNTI5NDg3OTU0MjI2.FsYBwCGihGmb0IA_om2mHaAP5SbJfmyLMnV4GDA9kpIg.S4Gss4O9EOc-N2D3alFckSeirOlDbDgLAdhgfWEykQIg.JPEG.kjonga/1.jpg?type=w800)![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENlVNsYF2l8GAyUEpDQr6Lb_Q3QjQUJlppg&s)![](https://m.hiberri.com/web/product/big/201905/64935e67d6bb6f9575bbfc19772ab642.jpg)
+![](https://user-images.githubusercontent.com/12907710/137271636-56ba1cd2-b110-4812-8221-b4c120320aa9.png)
 ### Dependencies (Level 3 Heading)
 - python
 - opencv-python
